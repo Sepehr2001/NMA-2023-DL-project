@@ -23,8 +23,8 @@ Mina Rezaie
 + Amirhossein Ghorbanpour
 + Anna Manaseryan
 + Pooya Yousef
-+ Sepehr Kalanaki
 + Seyed Mehdi YaghoubNejad
-
++ Sepehr Kalanaki
+  
 ## Group Photo:
 ![image](https://drive.google.com/uc?export=view&id=1slAHngSCadvFY9sQW-kEu4FX_W6qOqGM)
